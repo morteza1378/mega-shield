@@ -12,6 +12,7 @@
 * * *
 
 ## Commands
+* * *
 MeGa-shield has several commands that are only usable at certain ranks.
 
 
